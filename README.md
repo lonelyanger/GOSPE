@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Configure SMAC package
 
-We use the additional maps created by [ODIS](https://github.com/LAMDA-RL/ODIS). Here are a simple script to make some modifications in `smac` and copy additional maps to StarCraft II installation. Please make sure that you have set `SC2PATH` correctly.
+We follow [ODIS](https://github.com/LAMDA-RL/ODIS) to use additional map. Here are a simple script to make some modifications in `smac` and copy additional maps to StarCraft II installation. Please make sure that you have set `SC2PATH` correctly.
 
 ```bash
 git clone https://github.com/oxwhirl/smac.git
